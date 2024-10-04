@@ -1,5 +1,5 @@
 Hi, My name Is Mohammed, an IT Professional 
-
+-  I’m currently learning Python
 <!--
 **Mohammed-M-Alrehaili/Mohammed-M-Alrehaili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
